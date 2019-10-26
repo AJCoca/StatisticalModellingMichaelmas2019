@@ -1,0 +1,17 @@
+"go_out","subject","gender","Freq"
+"> 2/week","Arts","F",46
+"2/week","Arts","F",59
+"1/week","Arts","F",36
+"< 1/week","Arts","F",7
+"> 2/week","Sciences","F",30
+"2/week","Sciences","F",18
+"1/week","Sciences","F",23
+"< 1/week","Sciences","F",8
+"> 2/week","Arts","M",22
+"2/week","Arts","M",29
+"1/week","Arts","M",19
+"< 1/week","Arts","M",10
+"> 2/week","Sciences","M",61
+"2/week","Sciences","M",69
+"1/week","Sciences","M",37
+"< 1/week","Sciences","M",14
